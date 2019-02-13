@@ -5,7 +5,7 @@ Created on Tue May 29 11:02:09 2018
 
 @author: jinxing
 """
-#第一步
+#第一步First Step
 from selenium import webdriver
 executable_path = '/Users/jinxing/Desktop/chromedriver'
 driver = webdriver.Chrome(executable_path=executable_path)
@@ -26,7 +26,7 @@ for i in range(464):
 txt.close()
 
 
-#第二步
+#第二步 Second Step
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -66,7 +66,7 @@ Created on Tue May 29 13:44:52 2018
 
 @author: jinxing
 """
-#第三步
+#第三步 Third step
 from selenium import webdriver
 executable_path = '/Users/jinxing/Desktop/chromedriver'
 driver = webdriver.Chrome(executable_path=executable_path)
